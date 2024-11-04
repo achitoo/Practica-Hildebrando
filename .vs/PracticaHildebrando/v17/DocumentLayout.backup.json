@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|c:\\users\\lolv7\\source\\repos\\practicahildebrando\\practicahildebrando\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|solutionrelative:practicahildebrando\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|c:\\users\\lolv7\\source\\repos\\practicahildebrando\\practicahildebrando\\forms\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|solutionrelative:practicahildebrando\\forms\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|c:\\users\\lolv7\\source\\repos\\practicahildebrando\\practicahildebrando\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|solutionrelative:practicahildebrando\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|c:\\users\\lolv7\\source\\repos\\practicahildebrando\\practicahildebrando\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|solutionrelative:practicahildebrando\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|c:\\users\\lolv7\\source\\repos\\practicahildebrando\\practicahildebrando\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|solutionrelative:practicahildebrando\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|c:\\users\\lolv7\\source\\repos\\practicahildebrando\\practicahildebrando\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|solutionrelative:practicahildebrando\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|c:\\users\\lolv7\\source\\repos\\practicahildebrando\\practicahildebrando\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|solutionrelative:practicahildebrando\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|c:\\users\\lolv7\\source\\repos\\practicahildebrando\\practicahildebrando\\forms\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1CE0B1-F649-429E-BC32-C0269EF66094}|PracticaHildebrando\\PracticaHildebrando.csproj|solutionrelative:practicahildebrando\\forms\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +34,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegistrationForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\RegistrationForm.cs",
-              "RelativeDocumentMoniker": "PracticaHildebrando\\Forms\\RegistrationForm.cs",
-              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\RegistrationForm.cs [Design]",
-              "RelativeToolTip": "PracticaHildebrando\\Forms\\RegistrationForm.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\Main.cs",
+              "RelativeDocumentMoniker": "PracticaHildebrando\\Forms\\Main.cs",
+              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\Main.cs",
+              "RelativeToolTip": "PracticaHildebrando\\Forms\\Main.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:04:24.877Z",
+              "WhenOpened": "2024-11-04T22:39:50.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\Main.cs",
+              "RelativeDocumentMoniker": "PracticaHildebrando\\Forms\\Main.cs",
+              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\Main.cs [Design]",
+              "RelativeToolTip": "PracticaHildebrando\\Forms\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:39:48.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\CalculatorForm.cs",
+              "RelativeDocumentMoniker": "PracticaHildebrando\\Forms\\CalculatorForm.cs",
+              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\CalculatorForm.cs [Design]",
+              "RelativeToolTip": "PracticaHildebrando\\Forms\\CalculatorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:35:31.144Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegistrationForm.cs",
-              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\RegistrationForm.cs",
-              "RelativeDocumentMoniker": "PracticaHildebrando\\Forms\\RegistrationForm.cs",
-              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\RegistrationForm.cs",
-              "RelativeToolTip": "PracticaHildebrando\\Forms\\RegistrationForm.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAzwCEAAAALAAAAAAAAAA==",
+              "Title": "CalculatorForm.cs",
+              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\CalculatorForm.cs",
+              "RelativeDocumentMoniker": "PracticaHildebrando\\Forms\\CalculatorForm.cs",
+              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\CalculatorForm.cs",
+              "RelativeToolTip": "PracticaHildebrando\\Forms\\CalculatorForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:52:21.098Z",
+              "WhenOpened": "2024-11-04T22:34:40.501Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\LoginForm.cs",
-              "RelativeDocumentMoniker": "PracticaHildebrando\\Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\LoginForm.cs",
-              "RelativeToolTip": "PracticaHildebrando\\Forms\\LoginForm.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwCUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:26:53.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\LoginForm.cs",
-              "RelativeDocumentMoniker": "PracticaHildebrando\\Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\lolv7\\source\\repos\\PracticaHildebrando\\PracticaHildebrando\\Forms\\LoginForm.cs [Design]",
-              "RelativeToolTip": "PracticaHildebrando\\Forms\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:24:03.004Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

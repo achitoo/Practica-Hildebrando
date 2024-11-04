@@ -30,8 +30,7 @@ namespace PracticaHildebrando
             if (tbUser.Text == "admin" && tbPass.Text == "1234")
             {
                 MessageBox.Show("Bienvenido al sistema");
-                RegistrationForm frm = new RegistrationForm();
-                frm.ShowDialog();
+                
                 
             }
             LoginForm loginForm = new LoginForm();

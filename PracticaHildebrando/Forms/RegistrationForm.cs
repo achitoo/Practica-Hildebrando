@@ -23,26 +23,49 @@ namespace PracticaHildebrando.Forms
 
 
         }
-        public void ConfirmName()
+        public void ConfirmTb()
         {
             if (string.IsNullOrEmpty(tbName.Text))
             {
-
+                MessageBox.Show("Porfavor ingrese su nombre");
             }
-            if (string.IsNullOrEmpty(tbLName.Text)) { }
-            if (string.IsNullOrEmpty(tbPwrd.Text)) { }
+            if (string.IsNullOrEmpty(tbLName.Text)) 
+            {
+                MessageBox.Show("Por favor ingrese su apellido");
+            }
+            if (string.IsNullOrEmpty(tbPwrd.Text)) 
+            {
+                MessageBox.Show("Porfavor ingrese su contraseña correctamente");
+            }
             if (string.IsNullOrEmpty(tbEmail.Text)) 
-            { }
+            {
+                MessageBox.Show("Porfavor ingrese su correo");
+                
+            }
+            
+        }
+        private void ClearTb() 
+        {
+            tbName.Clear();
+            tbLName.Clear();  
+            tbPwrd.Clear();
+            tbEmail.Clear();
+
         }
 
 
         private void button1_Click(object sender, EventArgs e)
         {
-           
-           if (tbName.Text.Contains("@")) 
+           ConfirmTb();
+           ClearTb();
+           if (tbEmail.Text.Contains("@")) 
            {
-                
+                MessageBox.Show("Registro hecho correctamente");
            }
+           else
+            {
+                MessageBox.Show("Su correo no contiene el caracter '@'");
+            }
         }
     }
 }

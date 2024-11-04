@@ -9,3 +9,5 @@ C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\bin\Debug\Pr
 C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.exe
 C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.pdb
 C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.Forms.RegistrationForm.resources
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.Forms.Main.resources
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.Forms.CalculatorForm.resources
