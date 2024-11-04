@@ -1,0 +1,11 @@
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.csproj.AssemblyReference.cache
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.LoginForm.resources
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.Properties.Resources.resources
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.csproj.GenerateResource.cache
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.csproj.CoreCompileInputs.cache
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\bin\Debug\PracticaHildebrando.exe.config
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\bin\Debug\PracticaHildebrando.exe
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\bin\Debug\PracticaHildebrando.pdb
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.exe
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.pdb
+C:\Users\lolv7\source\repos\PracticaHildebrando\PracticaHildebrando\obj\Debug\PracticaHildebrando.Forms.RegistrationForm.resources
